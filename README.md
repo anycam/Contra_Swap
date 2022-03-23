@@ -6,6 +6,12 @@ Layout change made for 2x2u split space bars.
 Still ProMicro compatibile, orientation changed, DAUGHTERBOARD REQUIRED !
 Easy type C convertion.
 
+![Full Build](https://github.com/anycam/Contra_Swap/blob/main/ContraSwap/ContraSwap/Images/ContraFull.jpg)
+
+
+![PCB Real](https://github.com/anycam/Contra_Swap/blob/main/ContraSwap/ContraSwap/Images/COntraPcb.jpg)
+
+
 ![PCB Preview](https://github.com/anycam/Contra_Swap/blob/main/ContraSwap/ContraSwap/Images/PCBpre.png)
 
 IMAGES TBD.
